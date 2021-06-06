@@ -1,5 +1,5 @@
 .part1{
-    background-color: rgb(160, 160, 216);
+    background-color: rgb(110, 185, 219);
     padding: 40px;
 }
 .btn{
@@ -12,9 +12,5 @@
 #hm{
     min-height: 100vh;
 }
-.sticky-footer{
-    position: sticky;
-    top: 100%;
-    background-color: rgb(5, 11, 32);
-}
+
 

@@ -8,3 +8,8 @@ a{
 .navbar-brand{
     font-family: 'Lobster Two', cursive;
 }
+.sticky-footer{
+    position: sticky;
+    top: 100%;
+    background-color: rgb(5, 11, 32);
+}
