@@ -1,0 +1,10 @@
+a{
+    font-weight: bold;
+
+}
+.navbar{
+    background-color: rgb(5, 11, 32);
+}
+.navbar-brand{
+    font-family: 'Lobster Two', cursive;
+}

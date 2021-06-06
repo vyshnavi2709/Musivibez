@@ -1,0 +1,20 @@
+.part1{
+    background-color: rgb(160, 160, 216);
+    padding: 40px;
+}
+.btn{
+    border-radius: 20px;
+}
+.part3{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#hm{
+    min-height: 100vh;
+}
+.sticky-footer{
+    position: sticky;
+    top: 100%;
+    background-color: rgb(5, 11, 32);
+}
+
